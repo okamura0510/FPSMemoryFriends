@@ -1,0 +1,13 @@
+/*
+
+!/Assets
+!/FPSMemoryFriendsAndroidProject
+!/ProjectSettings
+!.gitignore
+!FPSMemoryFriends.unitypackage
+!LICENSE
+!README.md
+
+.DS_Store
+*.DS_Store
+*~
